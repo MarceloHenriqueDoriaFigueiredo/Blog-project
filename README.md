@@ -50,14 +50,12 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 gh repo clone MarceloHenriqueDoriaFigueiredo/Blog-project
 ```
 
-### Acesse a pasta do projeto pelo terminal ou pode usar também o terminal do vscode. 
+### Acesse a pasta do projeto pelo seu terminal ou pode usar também o terminal do vscode. 
 ```
-cd cd Blog-project
+cd Blog-project
 ```
 
-
-### Em seguida execute o comando:
-
+### Dentro da pasta do projeto execute o comando:
 ```
 npm install
 ```
@@ -68,7 +66,6 @@ npm i
 ```
 
 ### Depois de executado ainda na pasta do projeto execute o comando:
-
 ```
 npm run dev
 ```
@@ -78,8 +75,7 @@ ou
 yarn dev
 ```
 
-### Depois acesse pelo navegador o link que o terminal indicara (observacao: o link abaixo foi gerado no meu terminal local, o mesmo pode ser que mude quando voce rodar em sua maquina ):
-
+### Depois acesse pelo navegador o link que o terminal indicara (observacao: o link abaixo foi gerado no meu terminal local, o mesmo pode ser que mude quando voce execute o projeto em sua maquina):
 ```
 http://localhost:5173/
 ```
