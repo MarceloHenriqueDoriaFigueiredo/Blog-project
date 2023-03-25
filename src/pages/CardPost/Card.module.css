@@ -1,0 +1,136 @@
+#blog {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 110px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+.blog-heading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.blog-heading span {
+    color: black;
+}
+
+.blog-heading h3 {
+    font-size: 2.1rem;
+    font-weight: 600;
+}
+
+.blog-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0px;
+    flex-wrap: wrap;
+}
+
+.blog-box {
+    width: 315px;
+    background-color: #fff;
+    border: 1px solid #ececec;
+    margin: 20px;
+    border-radius: 2px;
+}
+
+.blog-img {
+    width: 100%;
+    height: auto;
+}
+
+.blog-img img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 3px;
+}
+
+.blog-text {
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+}
+
+.blog-text span {
+    color: black;
+    font-size: 0.9rem;
+}
+
+.blog-text a {
+    color: black;
+}
+
+.blog-text .blog-title {
+    font-size: 1.2rem;
+    font-weight: 500;
+    color: black;
+}
+
+.blog-text .blog-title:hover {
+    color: coral;
+    transition: ease-out;
+}
+
+.blog-text p {
+    color: #9b9b9b;
+    font-size: 0.9rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    margin: 20px 0px;
+}
+
+.content {
+    background-color: hsla(260, 100%, 44%, 0.1);
+    padding: 10px;
+    width: 91px;
+    border-radius: 5px;
+}
+
+.blog-text a:hover {
+    color: black;
+    transition: ease-out;
+}
+
+
+/* Responsive card post */
+
+@media screen and (min-width: 1080px) and (max-width: 1239px ) {
+    .blog-box {
+        width: 350px;
+    }
+
+    .blog-heading h3 {
+        text-align: center;
+    }
+}
+
+@media screen and (min-width: 780px) and (max-width: 929px) {
+    .blog-box {
+        width: 240px;
+    }
+
+    .blog-heading h3 {
+        text-align: center;
+    }
+}
+
+@media (max-width: 779px) {
+    .blog-box {
+        width: 330px;
+    }
+
+    .blog-heading h3 {
+        text-align: center;
+    }
+
+    .content {
+        width: 83px;
+    }
+}

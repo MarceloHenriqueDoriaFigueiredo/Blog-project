@@ -1,0 +1,23 @@
+.post-container {
+    max-width: 800px;
+    margin: auto;
+    width: 100%;
+}
+
+.share {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    row-gap: 1rem;
+}
+
+.share .share-title {
+    font-size: 1.3rem;
+    font-weight: 200;
+}
+
+.social {
+    display: flex;
+    gap: 5px;
+    cursor: pointer;
+}
