@@ -50,7 +50,13 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 gh repo clone MarceloHenriqueDoriaFigueiredo/Blog-project
 ```
 
-### Acesse a pasta do projeto pelo terminal ou pode usar também o terminal do vscode. e em seguida execute o comando:
+### Acesse a pasta do projeto pelo terminal ou pode usar também o terminal do vscode. 
+```
+cd cd Blog-project
+```
+
+
+### Em seguida execute o comando:
 
 ```
 npm install
