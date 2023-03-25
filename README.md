@@ -39,6 +39,44 @@ comentario sobre o post além de poder da like em outros comentarios e, também 
 foi desafio muito bom pois puder colocar em pratica alguns conceitos que vinha aprendendo como por exemplo a criacao de rotas utilizando react router e o
 uso de estados usando o useState.
 
+## ⚒ Como rodar o projeto
+
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+
+### Em seguida faça o clone do projeto:
+```
+gh repo clone MarceloHenriqueDoriaFigueiredo/Blog-project
+```
+
+### Acesse a pasta do projeto pelo terminal ou pode usar também o terminal do vscode. e em seguida execute o comando:
+
+```
+npm install
+```
+ou
+
+```
+npm i
+```
+
+### Depois de executado ainda na pasta do projeto execute o comando:
+
+```
+npm run dev
+```
+ou
+
+```
+yarn dev
+```
+
+### Depois acesse pelo navegador o link que o terminal indicara (observacao: o link abaixo foi gerado no meu terminal local, o mesmo pode ser que mude quando voce rodar em sua maquina ):
+
+```
+http://localhost:5173/
+```
 
 ## :memo: Licença
 
