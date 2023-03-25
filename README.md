@@ -80,6 +80,17 @@ yarn dev
 http://localhost:5173/
 ```
 
+# 🛣️ Rotas disponíveis aplicação:
+  
+  1. "/" - Home da aplicação
+  ```
+  http://localhost:5173/
+  ```
+  2. "/Post" - Tela com o conteudo completo do post e comentarios
+  ```
+  http://localhost:5173/Post
+  ```
+
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
