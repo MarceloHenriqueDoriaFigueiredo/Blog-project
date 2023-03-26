@@ -39,7 +39,7 @@ export function Comment({ content, onDeleteComment }){
                 <footer>
                     <button onClick={handleLikeComment}>
                         <ThumbsUp size={21} />
-                        Aplaudir <span>{likeCount}</span>
+                        Curtir <span>{likeCount}</span>
                     </button>
                 </footer>
             </div>
