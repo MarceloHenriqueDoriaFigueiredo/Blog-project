@@ -17,7 +17,7 @@ const posts = [
       content: [
         {type: 'paragraph', content: 'Lorem ipsum dolor sit amet consectetur',},
         {type: 'paragraph', content: 'amet adipisci necessitatibus suscipit corrupti minus magni animi, non '},
-        {type: 'link', content: '#Magnam #culpa #dolor #ratione'},
+        {type: 'link', content: '#Magnam #ratione'},
       ],
       publishAt: new Date('2023-02-20 08:36:16')
     },
