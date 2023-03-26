@@ -80,7 +80,7 @@ yarn dev
 http://localhost:5173/
 ```
 
-## 🛣️ Rotas disponíveis aplicação:
+## 🛣️ Rotas disponíveis aplicação
   
   1. "/" - Home da aplicação
   ```
