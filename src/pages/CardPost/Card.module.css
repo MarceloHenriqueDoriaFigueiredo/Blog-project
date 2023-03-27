@@ -115,9 +115,9 @@
         width: 240px;
     }
 
-    .blog-heading h3 {
+    /* .blog-heading h3 {
         text-align: center;
-    }
+    } */
 }
 
 @media (max-width: 779px) {
@@ -125,9 +125,9 @@
         width: 320px;
     }
 
-    .blog-heading h3 {
+    /* .blog-heading h3 {
         text-align: center;
-    }
+    } */
 
     .content {
         width: 83px;
