@@ -3,6 +3,8 @@
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rodar-projeto">Como rodar o projeto</a> |
+  <a href="#rotas">Rotas disponíveis da aplicação</a> |
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -39,7 +41,7 @@ comentario sobre o post além de poder da like em outros comentarios e, também 
 foi desafio muito bom pois puder colocar em pratica alguns conceitos que vinha aprendendo como por exemplo a criacao de rotas utilizando react router e o
 uso de estados usando o useState.
 
-## ⚒ Como rodar o projeto
+## ⚒ Como rodar o projeto <a id="rodar-projeto"></a>
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
@@ -74,7 +76,7 @@ npm run dev
 http://localhost:5173/
 ```
 
-## 🛣️ Rotas disponíveis aplicação
+## 🛣️ Rotas disponíveis da aplicação <a id="rotas"></a>
   
   1. "/" - Home da aplicação
   ```
