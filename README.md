@@ -47,7 +47,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ### Em seguida no terminal faça o clone do projeto:
 ```
-gh repo clone MarceloHenriqueDoriaFigueiredo/Blog-project
+git clone https://github.com/MarceloHenriqueDoriaFigueiredo/Blog-project.git
 ```
 
 ### Acesse a pasta do projeto pelo seu terminal ou pode usar também o terminal do vscode: 
