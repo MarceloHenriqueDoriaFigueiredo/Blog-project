@@ -25,7 +25,7 @@ export function Comment({ content, onDeleteComment }){
                     <header>
                         <div className={styles.auhtorAndTime}>
                             <strong>Marcelo Figueiredo</strong>
-                            <time title="16 de fevereiro às 09:37h" dateTime="2023-02-16 09:36:21">Cerca de 2h atrás</time>
+                            <time title="12 de março às 09:37h" dateTime="2023-03-12 09:36:21">Cerca de 3 dias atrás</time>
                         </div>
 
                         <button onClick={handleDeleteComment} title='Deletar comentario'>
