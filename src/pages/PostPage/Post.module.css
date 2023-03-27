@@ -40,11 +40,21 @@
     font-weight: 800;
 }
 
+.author-post {
+    margin-top: 10px;
+    font-size: 1rem;
+    color: black;
+}
+
+.author-post a {
+    color: black;
+    text-decoration: underline coral;
+}
+
 .post-text {
     font-size: 1rem;
     line-height: 1.7rem;
     margin: 1rem 0;
-    
 }
 
 .wrapper{
