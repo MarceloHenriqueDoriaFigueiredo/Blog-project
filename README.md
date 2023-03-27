@@ -69,12 +69,6 @@ npm i
 ```
 npm run dev
 ```
-ou
-
-```
-yarn dev
-```
-
 ### Depois acesse pelo navegador o link que o terminal indicara para iniciar o projeto. (Observacao: o link abaixo foi gerado no meu terminal local, o mesmo pode ser que mude quando voce executa o projeto em sua maquina):
 ```
 http://localhost:5173/
