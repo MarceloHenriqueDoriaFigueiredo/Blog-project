@@ -19,7 +19,7 @@
   <img alt="Imagem do blog em versao para computadores" src=".github/Desktop.png" width="100%">
  
 <h1>Mobile:</h1>
-  <img alt="Imagem do blog em versao para celulares" src=".github/Mobile.png" width="50%">
+  <img alt="Imagem do blog em versao para celulares" src=".github/Mobile.png" width="40%">
 </p>
 
 ## 🚀 Tecnologias
