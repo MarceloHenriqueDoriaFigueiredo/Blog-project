@@ -42,7 +42,7 @@ export function PostPage() {
             <section id={styles['post-content']} className={styles['post-container']}>
                 <h2 className={styles['sub-heading']}>
                     Lorem ipsum dolor sit amet, consectetur adipisicing.
-                    <p className={styles['author-post']}>Por: <a href="#">Lorem ipunns</a> <br /> 12/01/2022 às 11:00</p>
+                    <p className={styles['author-post']}>Por: <a href="#">Lorem ipunns</a> <br /> 12/03/2023 às 11:00</p>
                 </h2>
                 <p className={styles['post-text']}>
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem odit voluptates perferendis, quis assumenda vel odio recusandae? Error voluptas unde impedit, voluptatibus quia praesentium rem minima earum nostrum nihil eaque, maiores non in laudantium expedita deleniti harum cupiditate ipsam. Veniam aliquam nihil voluptatibus. Tempore, suscipit.
