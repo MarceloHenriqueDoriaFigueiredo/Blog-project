@@ -6,10 +6,10 @@ export function Footer() {
         <div className={styles.footer} id={styles.container}>
             <p>&#169; Lorem Blog Todos os direitos reservados</p>
             <div className={styles.social}>
-                <TwitterLogo size={27} />
-                <FacebookLogo size={27} />
-                <InstagramLogo size={27} />
-                <LinkedinLogo size={27} />
+                <a href=""><TwitterLogo color='black' size={27} /></a>
+                <a href=""><FacebookLogo color='black' size={27} /></a>
+                <a href=""><InstagramLogo color='black' size={27} /></a>
+                <a href=""><LinkedinLogo color='black' size={27} /></a>
             </div>
         </div>
     )

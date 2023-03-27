@@ -9,13 +9,13 @@ export function Share() {
             </span>
 
         <div className={styles.social}>
-            <TwitterLogo size={27} />
-            <LinkedinLogo size={27} />
-            <Envelope size={27} />
-            <FacebookLogo size={27} />
-            <RedditLogo size={27} />
-            <TwitchLogo size={27} />
-            <WhatsappLogo size={27} />
+            <a href="#"><TwitterLogo color='black' size={27} /></a>
+            <a href="#"><LinkedinLogo color='black' size={27} /></a>
+            <a href="#"><Envelope color='black' size={27} /></a>
+            <a href="#"><FacebookLogo color='black' size={27} /></a>
+            <a href="#"><RedditLogo color='black' size={27} /></a>
+            <a href="#"><TwitchLogo color='black' size={27} /></a>
+            <a href="#"><WhatsappLogo color='black' size={27} /></a>
         </div>
     </div>
     )
