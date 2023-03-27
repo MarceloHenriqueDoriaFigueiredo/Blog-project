@@ -1,7 +1,5 @@
 <h1 align="center"> Blog-site </h1>
 
-<h1 align="center"> 🚧 Projeto em construcao </h1>
-
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
