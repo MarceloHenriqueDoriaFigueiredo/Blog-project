@@ -36,7 +36,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O projeto teve como objetivo a criação de blog site para a divulgação de conteudos. Quando o usuario clica no botão de "leia mais" ele sera redirecionado
-para uma nova pagina onde havera todo o conteudo daquele post. Alem do conteudo tera uma secçao de comentarios onde o usuario podera escrever seu
+para uma nova pagina onde havera todo o conteudo daquele post. Alem do conteudo tera uma seçao de comentarios onde o usuario podera escrever seu
 comentario sobre o post além de poder da like em outros comentarios e, também podera deletar o seu comentario caso necessario. A construcao do projeto
 foi desafio muito bom pois puder colocar em pratica alguns conceitos que vinha aprendendo como por exemplo a criacao de rotas utilizando react router e o
 uso de estados usando o useState.
