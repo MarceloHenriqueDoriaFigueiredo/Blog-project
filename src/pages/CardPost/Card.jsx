@@ -18,7 +18,7 @@ export function Card() {
                 </div>
 
                 <div className={styles['blog-text']}>
-                    <span>24 jan 2023 / Software Eginner</span>
+                    <span>24 mar 2023 / Software Eginner</span>
                     <a href="#" className={styles['blog-title']}>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Exercitationem eaque animi consequatur!</a>
                     <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Porro voluptatum, suscipit recusandae debitis id sed voluptates.</p>
                     <NavLink to="/Post" className={styles.content}>
@@ -33,7 +33,7 @@ export function Card() {
                 </div>
 
                 <div className={styles['blog-text']}>
-                    <span>24 jan 2023 / Games</span>
+                    <span>24 mar 2023 / Games</span>
                     <a href="#" className={styles['blog-title']}>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Exercitationem eaque animi consequatur!</a>
                     <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Porro voluptatum, suscipit recusandae debitis id sed voluptates.</p>
                     <NavLink to="/Post" className={styles.content}>
@@ -48,7 +48,7 @@ export function Card() {
                 </div>
 
                 <div className={styles['blog-text']}>
-                    <span>24 jan 2023 / FullStack Eginner</span>
+                    <span>24 mar 2023 / FullStack Eginner</span>
                     <a href="#" className={styles['blog-title']}>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Exercitationem eaque animi consequatur!</a>
                     <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Porro voluptatum, suscipit recusandae debitis id sed voluptates.</p>
                     <NavLink to="/Post" className={styles.content}>
@@ -63,7 +63,7 @@ export function Card() {
                 </div>
 
                 <div className={styles['blog-text']}>
-                    <span>24 jan 2023 / Software Developer</span>
+                    <span>24 mar 2023 / Software Developer</span>
                     <a href="#" className={styles['blog-title']}>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Exercitationem eaque animi consequatur!</a>
                     <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Porro voluptatum, suscipit recusandae debitis id sed voluptates.</p>
                     <NavLink to="/Post" className={styles.content}>
@@ -78,7 +78,7 @@ export function Card() {
                 </div>
 
                 <div className={styles['blog-text']}>
-                    <span>24 jan 2023 / Back-End Developer</span>
+                    <span>24 mar 2023 / Back-End Developer</span>
                     <a href="#" className={styles['blog-title']}>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Exercitationem eaque animi consequatur!</a>
                     <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Porro voluptatum, suscipit recusandae debitis id sed voluptates.</p>
                     <NavLink to="/Post" className={styles.content}>
@@ -93,7 +93,7 @@ export function Card() {
                 </div>
 
                 <div className={styles['blog-text']}>
-                    <span>24 jan 2023 / Software Developer</span>
+                    <span>24 mar 2023 / Software Developer</span>
                     <a href="#" className={styles['blog-title']}>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Exercitationem eaque animi consequatur!</a>
                     <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Porro voluptatum, suscipit recusandae debitis id sed voluptates.</p>
                     <NavLink to="/Post" className={styles.content}>
