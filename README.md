@@ -16,10 +16,10 @@
 
 <p align="center">
 <h1>Desktop:</h1>
-  <img alt="" src=".github/" width="100%">
+  <img alt="Imagem do blog em versao para computadores" src=".github/Desktop.png" width="100%">
  
 <h1>Mobile:</h1>
-  <img alt="" src=".github/" width="30%">
+  <img alt="Imagem do blog em versao para celulares" src=".github/Mobile.png" width="50%">
 </p>
 
 ## 🚀 Tecnologias
